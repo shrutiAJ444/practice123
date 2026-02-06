@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Shruti",
+    "email": "shruti@gmail.com",
+    "age": 20,
+    "city": "Nashik"
+  },
+  {
+    "name": "Rohit",
+    "email": "rohit@gmail.com",
+    "age": 22,
+    "city": "Pune"
+  },
+  {
+    "name": "Anjali",
+    "email": "anjali@gmail.com",
+    "age": 19,
+    "city": "Mumbai"
+  }
+]
